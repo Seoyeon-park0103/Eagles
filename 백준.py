@@ -4,7 +4,7 @@ Yewon Kang,202303141,computer engineering,sophomore of Hufs
 import numpy as np
 import matplotlib.pyplot as plt
 
-u=[5,9,6]
+u=[5,9,7]
 fig=plt.figure()
 ax=plt.axes(projection='3d')
 ax.set_xlim(-1,10)
